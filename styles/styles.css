@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: Overpass;
+  background-color: hsl(216, 12%, 8%);
+
+  h1 {
+    font-weight: 700;
+    color: white;
+    padding: 1.5rem 0;
+  }
+
+  p {
+    font-size: 15px;
+    color: hsl(217, 12%, 63%);
+  }
+
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+  }
+
+  ul li {
+    padding: 1em 0;
+  }
+
+  ul li button {
+    width: 3rem;
+    height: 3rem;
+    border: none;
+    background-color: hsl(213, 19%, 40%);
+    border-radius: 50%;
+    color: white;
+    padding-top: 0.1rem;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+
+  button {
+    font-family: inherit;
+  }
+
+  ul li button:hover {
+    background-color: hsl(25, 97%, 53%);
+  }
+
+  ul li button:focus {
+    background-color: hsl(217, 12%, 63%);
+  }
+
+  #submit {
+    background-color: hsl(25, 97%, 53%);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: 1rem;
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+  }
+
+  #submit:hover {
+    background-color: white;
+    color: hsl(25, 97%, 53%);
+  }
+}
+
+.container {
+  background-color: hsl(213, 19%, 18%);
+  padding: 1.5rem;
+  max-width: 400px;
+  border-radius: 2rem;
+}
+
+#star {
+  background-color: hsl(213, 19%, 40%);
+  padding: 1rem;
+  border-radius: 50%;
+}
+
+.thanks-rate {
+  background-color: hsl(213, 19%, 18%);
+  padding: 2rem;
+  max-width: 400px;
+  border-radius: 2rem;
+  text-align: center;
+
+  .first-p {
+    background-color: hsl(213, 19%, 30%);
+    color: hsl(25, 97%, 53%);
+    border-radius: 20px;
+    width: 50%;
+    margin: 0 auto;
+    padding: 0.5rem;
+  }
+
+  p {
+    padding: 0.2rem 0;
+  }
+
+  img {
+    margin-bottom: 20px;
+  }
+}
+
+.hidden {
+  display: none;
+}
