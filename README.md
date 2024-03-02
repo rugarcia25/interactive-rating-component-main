@@ -13,7 +13,7 @@ This is a solution to the [Interactive rating component](https://www.frontendmen
 
 ### Screenshot
 
-![](./assets/images/web.png)
+![](./images/web.png)
 
 ### Links
 
