@@ -17,7 +17,7 @@ This is a solution to the [Interactive rating component](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-link-profile-component-UMTWyJJlLl](https://www.frontendmentor.io/solutions/responsive-social-link-profile-component-UMTWyJJlLl)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-link-profile-component-UMTWyJJlLl] [(https://www.frontendmentor.io/solutions/responsive-interactive-rating-component-8cR2qhcPez)]
 - Live Site URL: [[https://rugarcia25.github.io/social-links-profile-main/](https://rugarcia25.github.io/interactive-rating-component-main/)]
 
 ### Built with
