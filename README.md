@@ -6,7 +6,7 @@ This is a solution to the [Interactive rating component](https://www.frontendmen
 
 - [Overview](#overview)
   - [The challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub)
-  - [Screenshot](./assets/images/web.png)
+  - [Screenshot](./images/web.png)
 - [Author](#author)
 
 ## Overview
