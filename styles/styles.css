@@ -14,6 +14,7 @@ body {
   flex-direction: column;
   font-family: Overpass;
   background-color: hsl(216, 12%, 8%);
+}
 
   h1 {
     font-weight: 700;
@@ -80,7 +81,6 @@ body {
     background-color: white;
     color: hsl(25, 97%, 53%);
   }
-}
 
 .container {
   background-color: hsl(213, 19%, 18%);
@@ -101,7 +101,7 @@ body {
   max-width: 400px;
   border-radius: 2rem;
   text-align: center;
-
+}
   .first-p {
     background-color: hsl(213, 19%, 30%);
     color: hsl(25, 97%, 53%);
@@ -118,7 +118,6 @@ body {
   img {
     margin-bottom: 20px;
   }
-}
 
 .hidden {
   display: none;
